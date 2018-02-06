@@ -4,4 +4,4 @@ correctly.
 2. I have discussed the general process of creating the special repo with Gavin
 Smith.
 
-3. I've probably spent about 15 hours on this assignment.
+3. I've probably spent about 12 hours on this assignment.
