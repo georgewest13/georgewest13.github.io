@@ -1,0 +1,63 @@
+<!doctype html>
+
+<html>
+	<head>
+		<title> George West Resume </title>
+		<meta charset = "utf-8"/>
+		<link href = "style.css" rel = "stylesheet" />
+	</head>
+	
+	<body>
+		<h1> Education </h1>
+		<h4> Tufts University School of Engineering, Medford, MA </h4>
+		<p> Bachelor of Science in Computer Science; Minor in
+		  Mathematics <br />
+		  GPA 3.88/4.00 <br />
+		  Dean's List: Fall 2016, Spring 2017, Fall 2017 <br />
+
+		  Relevant Courses: Machine Structure and Programming, Data Structures, Web Programming, Linear Algebra, Differential Equations, Discrete Mathematics, Intro to Electrical Systems, Intro to Digital Electronics </p>
+		<h4> Arlington High School, Arlington, MA </h4>
+		<p> Diploma with 3.81/4.00 GPA </p>
+		
+		<h1> Professional Experience </h1>
+		<h4> Department of History, Tufts University </h4>
+		<div> 
+			Office Assistant (January 2017 - Present) 
+		</div> 
+		<p>    - Assist in departmental phone calls with students, faculty and 
+			people outside the university. <br />
+			- Aid in professor preparation for classes and lectures. </p>
+		<h4> School of Engineering, Tufts University </h4>
+		<div> 
+			Teaching Assistant (January 2018 - Present) 
+		</div> 
+		<p>	- Assist in the creation and organization of the ES2 class 	
+			architecture. <br />
+			- Lead a lab of 20 students with weekly assignments. <br />
+			- Host office hours and create reference solutions. </p>
+		<h4> Chilly Cow, Arlington, MA </h4>
+		<div> 
+			Supervisor, Producer and Manufacturer, Retail (November 2014 - January 2018) 
+		</div> 
+		<p>	- Supervised a retail staff of 10 to ensure the business ran smoothly and followed health code. <br />
+			- Maintained a fully stocked inventory and organized such items. <br />
+			- Produced and manufactured hundreds of cakes each week for wholesale 
+		to specialty grocery stores. <br />
+			- Assisted demos and catering events at corporate companies with over 
+		100 employees. <br />
+			- Dealt with customer/client relations to improve store’s rapport. </p>
+
+		<h1> Skills </h1>
+		<p> Computer - Word, Excel, PowerPoint, UNIX operating systems, C++, C, Python, MATLAB <br />
+			Conversant in Spanish </p>
+
+		<h1> Activities </h1>
+		<p> - Running through the meadows of code, searching for bugs with my microsope and net, 
+		exterminating every single one of them until I can leisurely stroll in a debugged field <br />
+		- Making and eating ice cream <br />
+	    - Taking on individual projects <br />
+	    - Playing video games </p>
+
+
+	</body>
+</html>
