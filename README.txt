@@ -1,7 +1,1 @@
-1. I believe that all aspects of the assignment have been implemented 
-correctly.
-
-2. I have discussed the general process of creating the special repo with Gavin
-Smith.
-
-3. I've probably spent about 12 hours on this assignment.
+My personal page which was created using the "Resume" framework for Bootstrap by Start Bootstrap.
