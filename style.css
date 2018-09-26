@@ -1,22 +1,123 @@
 /* CSS style sheet for resume.html */
 
+html {
+ font-family:sans-serif;
+}
+
 body {
-	background-color: #FFE1A3;
-	font-family: "Times New Roman Georgia";
+  background-color: #BABABA;
+  margin:  auto;
+}
+
+#toplogo {
+  font-family: 'Oswald', sans-serif;
+  font-size: 36pt;
+  font-weight: bold;
+  position: relative;
+  padding: 25px 15px;
+}
+
+.topnav {
+  background-color: #222;
+  overflow: hidden;
+}
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+  font-size: 17px;
+  font-family: 'Rubik', sans-serif;
+}
+
+.topnav a:hover {
+  background-color: #aaaddd;
+  color: black;
+}
+
+img {
+  vertical-align: middle;
+  margin-left: 40%;
+  padding-bottom: 20px; 
+}
+
+a {
 }
 
 h1 {
-	text-align: center;
+  font-family: "Roboto";
+  font-size: 3.0em;
+  font-weight: bold;
 }
 
-h4 {
-	font-size: 18px;
+h2 {
+  font-family: "Rubik";
+  font-size: 2.0em;
+  font-weight: bold;
 }
 
-div {
-	font-family: "Courier New";
+h3 {
+  font-size: 1.2em;
+  font-family: 'Open Sans';
+  font-weight: bold;
 }
 
 p {
-	font-family: "Courier New";
+  font-family: "Open Sans";
+  font-size: 1.0em;
+}
+
+#bio {
+
+  margin: 5px 3in 0 3in;
+  padding-top: 10px;
+  padding-bottom: 2.5in;
+  text-align: center;
+  text-align-last: left;
+}
+
+#me {
+  margin: 0;
+  padding: 1px;
+  text-align: center;
+  font-size: 6.25em;
+  font-family: "Roboto";
+  color: black;
+}
+
+#about-me {
+  margin-left: 1.8in;
+  margin-right: 7in;
+  text-align: center;
+  padding: 30px 5px 5px 5px;
+  font-family: "Roboto";
+  font-size: 25pt;
+}
+
+.global-wrapper {
+  min-height: auto !important;
+  margin-bottom: 0;
+}
+
+#copyright {
+  width: 100%;
+  color: #000000;
+  line-height: 0.2em;
+  padding: 5px 5px;
+  font-size: 0.9em;
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  height: inherit;
+  position: relative;
+}
+
+footer {
+  position: absolute;
+  text-align: center;
+  width: 100%;
+  padding: 15px 0px 15px 0px;
+  background-color: #656565;
+  margin: 0 
 }
